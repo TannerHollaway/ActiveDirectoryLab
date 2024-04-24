@@ -18,24 +18,24 @@ Creating a active directory homelab to better understand active directory and wi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-What is screenshot doing: <br/> 
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+Configuring network setting in Windows 2019 Server: <br/> 
+<img src="https://i.imgur.com/M9fZFjR.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
-What is screenshot doing:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+Installing Windows 2019 Server:  <br/>
+<img src="https://i.imgur.com/QnXTD1O.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
-What is screenshot doing: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+Identifying networks for future routing: <br/>
+<img src="https://i.imgur.com/rPofCqZ.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
 What is screenshot doing:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
-What is screenshot doing:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+Creating a domain:  <br/>
+<img src="https://i.imgur.com/Opcu4Dh.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
 What is screenshot doing:  <br/>
