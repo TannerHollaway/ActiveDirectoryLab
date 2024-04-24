@@ -66,16 +66,20 @@ Defining the scope scope:  <br/>
 <img src="https://i.imgur.com/Ljub67g.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
-What is screenshot doing:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+Client/DC is properly configured, sending information and recieving information:  <br/>
+<img src="https://i.imgur.com/jzvGQek.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
- What is screenshot doing:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+ Further showing Client is part of the domain:  <br/>
+<img src="https://i.imgur.com/k4N0QOM.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
- What is screenshot doing:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+ Using a previously generated account to login:  <br/>
+<img src="https://i.imgur.com/M8wJBCl.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+<br />
+<br />
+ Using a previously generated account to login:  <br/>
+<img src="https://i.imgur.com/M1hhp2T.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
 <!--
