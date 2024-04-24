@@ -21,7 +21,7 @@ What is screenshot doing: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
-What is screenshot doingk:  <br/>
+What is screenshot doing:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
@@ -33,7 +33,7 @@ What is screenshot doing:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
-What is screenshot doing?:  <br/>
+What is screenshot doing:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
