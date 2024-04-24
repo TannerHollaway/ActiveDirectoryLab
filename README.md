@@ -11,9 +11,6 @@ Creating a active directory homelab to better understand active directory and wi
 - <b>Windows 10 ISO</b>
 - <b>2019 Server ISO</b>
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
@@ -28,10 +25,6 @@ Installing Windows 2019 Server:  <br/>
 <br />
 Identifying networks for future routing: <br/>
 <img src="https://i.imgur.com/rPofCqZ.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
-<br />
-<br />
-What is screenshot doing:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
 Creating a domain:  <br/>
@@ -82,6 +75,7 @@ Client/DC is properly configured, sending information and recieving information:
 <img src="https://i.imgur.com/M1hhp2T.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
+  Done!:  <br/>
 <!--
  ```diff
 - text in red
