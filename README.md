@@ -5,10 +5,11 @@ Creating a active directory homelab to better understand active directory and wi
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle VirtualBox</b> 
+- <b>Windows 10 ISO</b>
+- <b>2019 Server ISO</b>
 
 <h2>Environments Used </h2>
 
