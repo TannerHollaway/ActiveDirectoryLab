@@ -38,14 +38,46 @@ Creating a domain:  <br/>
 <img src="https://i.imgur.com/Opcu4Dh.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
-What is screenshot doing:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+Creating Domain Admin account:  <br/>
+<img src="https://i.imgur.com/39sgQV0.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+<br />
+<br />
+Configuring RAS:  <br/>
+<img src="https://i.imgur.com/NjCjcDQ.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+<br />
+<br />
+Configuring NAT:  <br/>
+<img src="https://i.imgur.com/DURk4ES.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+<br />
+<br />
+Setting up DHCP:  <br/>
+<img src="https://i.imgur.com/7dyHaqG.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+<br />
+<br />
+Defining the scope scope:  <br/>
+<img src="https://i.imgur.com/eu5MI6F.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+<br />
+<br />
+ Using Powershell Script to create Users in Active Directory:  <br/>
+<img src="https://i.imgur.com/eroM04K.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+<br />
+<br />
+ configuring Client VM network settings:  <br/>
+<img src="https://i.imgur.com/Ljub67g.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
 <br />
 <br />
 What is screenshot doing:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
-</p>
-
+<br />
+<br />
+ What is screenshot doing:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+<br />
+<br />
+ What is screenshot doing:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="ActiveDirectoryLab"/>
+<br />
+<br />
 <!--
  ```diff
 - text in red
